@@ -1,3 +1,9 @@
+"""
+Curso Estructura de Datos 301305
+Autor:Cristian Gabriel Moreno Rodriguez
+Descripción: Aplicación de escritorio desarrollada en Python con interfaz
+gráfica (Tkinter) para la academia de música "Melodías Perfectas"..
+"""
 import tkinter as tk
 from tkinter import messagebox
 from datetime import date
